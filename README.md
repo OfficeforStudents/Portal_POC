@@ -19,17 +19,3 @@ To run the app:
   * Build the solution
   * Run the app.
 
-## Running in Azure
-
-To run the app, just click the below "Deploy to Azure" button.
-
-[![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/)
-
-## Sitefinity site and documentation
-
-Product site - https://sitefinity.com/
-
-Documentation - https://docs.sitefinity.com/
-
-
-
