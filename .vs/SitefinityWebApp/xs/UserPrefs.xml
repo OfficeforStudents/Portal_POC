@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{40B2E529-CC32-4793-9E50-E0D55E57401E}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SitefinityWebApp/Web.config">
+    <Files>
+      <File FileName="SitefinityWebApp/Web.config" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.SitefinityWebApp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
